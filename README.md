@@ -2,4 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 sd1923
-
+## Favorite linux command
+ls
